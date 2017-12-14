@@ -1,0 +1,10 @@
+
+.gitignore
+var/cache/dev/doctrine/
+var/cache/dev/pools/
+vendor/doctrine/common/lib/vendor/
+vendor/doctrine/dbal/lib/vendor/
+vendor/doctrine/orm/docs/en/_theme/
+vendor/doctrine/orm/lib/vendor/
+web/bundles/
+.idea
